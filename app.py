@@ -201,4 +201,4 @@ st.caption("Content from Wikipedia, CC BY-SA 4.0.")
 # ---------------------------------------------------------------------------
 # Debug: watch state change as you click around
 # ---------------------------------------------------------------------------
-st.write(st.session_state)
+# st.write(st.session_state)
